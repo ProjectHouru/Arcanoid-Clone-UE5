@@ -25,9 +25,18 @@ Arcanoid Clone is a gameplay prototype inspired by the classic brick breaker gen
 - Collision System
 - Gameplay Framework
 
+## Main Blueprints
+
+- BP_Ball
+- BP_MyPawn
+- BP_GameMode
+- BP_Cubes_Generator
+- BP_Bonus
+
 ## Screenshots
 
-_Add screenshots here._
+Screenshot_01.jpg
+Screenshot_02.jpg
 
 ## Links
 
