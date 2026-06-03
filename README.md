@@ -35,8 +35,11 @@ Arcanoid Clone is a gameplay prototype inspired by the classic brick breaker gen
 
 ## Screenshots
 
-Screenshot_01.jpg
-Screenshot_02.jpg
+![Gameplay](Media/Screenshot_01.jpg)
+
+![Gameplay](Media/Screenshot_02.jpg)
+
+![Gameplay](Media/Screenshot_03.jpg)
 
 ## Links
 
