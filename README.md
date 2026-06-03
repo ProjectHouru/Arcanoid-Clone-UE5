@@ -4,7 +4,7 @@ A classic arcade-style gameplay prototype created in Unreal Engine 5.
 
 ## Overview
 
-Arcanoid Clone is a small gameplay programming project focused on recreating the core mechanics of a classic brick breaker game. The project includes player paddle control, ball physics, destructible blocks, score tracking, lives, bonuses and UI.
+Arcanoid Clone is a gameplay prototype inspired by the classic brick breaker genre. The project focuses on implementing arcade gameplay systems, collision handling, score progression and bonus mechanics using Unreal Engine 5 Blueprints.
 
 ## Features
 
