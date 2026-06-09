@@ -2,6 +2,10 @@
 
 A classic arcade-style gameplay prototype created in Unreal Engine 5.
 
+## Gameplay
+
+![Gameplay](Media/Gameplay.gif)
+
 ## Overview
 
 Arcanoid Clone is a gameplay prototype inspired by the classic brick breaker genre. The project focuses on implementing arcade gameplay systems, collision handling, score progression and bonus mechanics using Unreal Engine 5 Blueprints.
